@@ -17,7 +17,9 @@ This repository contains a Python script that converts GPS data to translation c
 1. Install the required dependencies:
 
    ```bash
-   pip install numpy pandas matplotlib
+   pip install numpy pandas matplotlib 
+   
 Examples
+
 ![test2](https://github.com/Sadegh-Kalami/GPS2XYZ-Plotter/assets/130472385/339c658a-0254-41e5-a46d-0ad881d663e4)
 ![test](https://github.com/Sadegh-Kalami/GPS2XYZ-Plotter/assets/130472385/9e9f900b-1955-4add-a096-063647c7f309)
